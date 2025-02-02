@@ -13,9 +13,9 @@ I am a senior at the University of Pennsylvania pursuing a BSE in Electrical Eng
 
 ### Connect With Me!
 
-🌐 Check out my [portfolio]([url](https://jsjha.com/index.html))!
+🌐 Check out my [portfolio](https://jsjha.com/index.html)!
 
-📧 Feel free to send me a message [here]([url](https://jsjha.com/contact.html))!
+📧 Feel free to send me a message [here](https://jsjha.com/contact.html)!
 
 <!--
 **jsjha/jsjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
