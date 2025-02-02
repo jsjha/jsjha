@@ -4,7 +4,7 @@ I am a senior at the University of Pennsylvania pursuing a BSE in Electrical Eng
 
 ### About Me
 
-🌐 I enjoy studying languages! I speak Spanish, and I am currently learning French and Arabic! I am also co-developing a language learning app called Languify, more detials to come!
+🔡 I enjoy studying languages! I speak Spanish, and I am currently learning French and Arabic! I am also co-developing a language learning app called Languify, more detials to come!
 
 ⚙️ Most of of my projects are related to embedded systems, I have created a motion controlled robotic arm, joystick controlled pong, and distance-based synthasizer utilizing bare-metal C and various communication protocals such as UART, I2C, and Wifi. 
 
@@ -13,7 +13,7 @@ I am a senior at the University of Pennsylvania pursuing a BSE in Electrical Eng
 
 ### Connect With Me!
 
-📄 Check out my [portfolio]([url](https://jsjha.com/index.html))!
+🌐 Check out my [portfolio]([url](https://jsjha.com/index.html))!
 
 📧 Feel free to send me a message [here]([url](https://jsjha.com/contact.html))!
 
