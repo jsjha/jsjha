@@ -6,7 +6,7 @@ I am a senior at the University of Pennsylvania pursuing a BSE in Electrical Eng
 
 🔡 I enjoy studying languages! I speak Spanish, and I am currently learning French and Arabic! I am also co-developing a language learning app called Languify, more details to come!
 
-⚙️ Most of my projects are related to embedded systems, I have created a motion-controlled robotic arm, joystick controlled pong, and distance-based synthasizer utilizing bare-metal C and various communication protocals such as UART, I2C, and Wifi. 
+⚙️ Most of my projects are related to embedded systems, I have created a motion-controlled robotic arm, joystick controlled pong, and distance-based synthesizer utilizing bare-metal C and various communication protocals such as UART, I2C, and Wifi. 
 
 💡 I am looking to expand my software and data analysis experience, especially as it relates to foreign policy and diplomatic relations, as I am interested in learning more about how technology can be utilized in these fields!
  
